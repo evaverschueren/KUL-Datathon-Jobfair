@@ -12,7 +12,7 @@ url_video: ""
 
 <h4 style="color: #F88379">When? </h4>
 <p style='text-align: justify;'>
-The jobfair will take place on February 23, 2023, from 18h00 till 21h00. Free drinks will be provided. 
+The jobfair will take place on February 23, 2023, from 18h00 till 21h00. Free drinks will be provided. Both datathon and non-datathon participants are allowed to visit the jobfair!
 
 
 <h4 style="color: #F88379"> Where? </h4>

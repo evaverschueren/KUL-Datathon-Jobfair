@@ -17,4 +17,4 @@ bio: ""
 
 <br/>
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/Poster2020.pdf" "newtab" >}}poster.{{</staticref>}}
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/PosterDatathonJobfair.pdf" "newtab" >}}poster.{{</staticref>}}
