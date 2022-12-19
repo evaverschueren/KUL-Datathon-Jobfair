@@ -23,3 +23,6 @@ url_video: ""
 ![](/albums/ComJobfair/p95.PNG)
 
 ![](/albums/ComJobfair/PythonPredictions.png)
+![](/albums/ComJobfair/EY.png)
+![](/albums/ComJobfair/Nestle.png)
+![](/albums/ComJobfair/ProphecyLabs.png)

@@ -25,5 +25,5 @@ Thanks to our sponsors, we can award the following prizes: </p>
 <h4 style="color: #F88379">And the winners get...? </h4>
 
 <p style='text-align: justify;'>
-Each team member of a winning team will receive a Coolblue voucher! But no worries, all participants also get a goodie bag!  </p>
+Each team member of a winning team will receive a Coolblue voucher! </p>
 
