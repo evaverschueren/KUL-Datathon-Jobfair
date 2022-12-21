@@ -20,7 +20,7 @@ url_video: ""
 
 ![](/albums/ComJobfair/OpenAnalytics.png)
 ![](/albums/ComJobfair/Ortec.PNG)
-![](/albums/ComJobfair/p95.PNG)
+![](/albums/ComJobfair/P95.PNG)
 
 ![](/albums/ComJobfair/PythonPredictions.png)
 ![](/albums/ComJobfair/EY.PNG)
