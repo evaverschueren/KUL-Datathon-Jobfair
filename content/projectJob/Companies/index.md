@@ -26,3 +26,10 @@ url_video: ""
 ![](/albums/ComJobfair/EY.PNG)
 ![](/albums/ComJobfair/Nestle.PNG)
 ![](/albums/ComJobfair/ProphecyLabs.PNG)
+
+![](/albums/ComJobfair/Belfius.PNG)
+![](/albums/ComJobfair/Deloitte.PNG)
+![](/albums/ComJobfair/KBC.png)
+![](/albums/ComJobfair/KPMG.png)
+![](/albums/ComJobfair/Pwc.PNG)
+![](/albums/ComJobfair/Riskconcile.png)
