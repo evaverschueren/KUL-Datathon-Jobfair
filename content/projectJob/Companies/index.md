@@ -33,3 +33,4 @@ url_video: ""
 ![](/albums/ComJobfair/KPMG.png)
 ![](/albums/ComJobfair/Pwc.PNG)
 ![](/albums/ComJobfair/Riskconcile.png)
+![](/albums/ComJobfair/IDDI.PNG)
