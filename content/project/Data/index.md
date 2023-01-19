@@ -26,7 +26,7 @@ The data set will be released on Tuesday February 14, 2023.
 <p style='text-align: justify;'> The competition data set consists of a combination of text information on the art and artists, images, and network data. This diverse data set allows for a wide range of techniques to be applied, making it suitable for both beginners and advanced participants.
 </p>
 
-![](/albums/Dataset.PNG)
+![](/albums/Dataset.png)
 
 
 
