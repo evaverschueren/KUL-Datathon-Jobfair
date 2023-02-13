@@ -21,12 +21,10 @@ The datathon is neither an exam or a project. Hence, there is no particular assi
 
 The data set will be released on Tuesday February 14, 2023.
 
-<p style='text-align: justify;'> This year, the organizing team has prepared an exciting data set of some of the most famous artworks in the world. We're inviting you to delve into the life and work of renowned artists such as Rubens, Van Gogh, and Salvador Dali, and discover the connections between their artworks and those created by AI systems. </p>
+<p style='text-align: justify;'> The data for the KU Leuven Datathon 2023 consists of several tables related to artworks, artists, movements, academies, specializations, medium, and places. The tables contain information such as the name, description, image URL, and relationships between different concepts.  </p>
 
-<p style='text-align: justify;'> The competition data set consists of a combination of text information on the art and artists, images, and network data. This diverse data set allows for a wide range of techniques to be applied, making it suitable for both beginners and advanced participants.
-</p>
+<p style='text-align: justify;'> In addition to the main data tables, there are also AI generated images created using Text-To-Image technology. </p>
 
-![](/albums/Dataset.png)
 
 
 
