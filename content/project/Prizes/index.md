@@ -19,7 +19,6 @@ Thanks to our sponsors, we can award the following prizes: </p>
 - Best Modeling 
 - Best Bachelor Team
 - Best Master Team
-- Best PhD Team
 
 
 <h4 style="color: #F88379">And the winners get...? </h4>

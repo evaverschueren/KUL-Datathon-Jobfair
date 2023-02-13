@@ -10,6 +10,9 @@ url_video: ""
 
 ---
 
+All information can be found{{< staticref "uploads/Datathon_details_2023.pdf" "newtab" >}}here.{{</staticref>}}
+
+
 <h4 style="color: #F88379">When? </h4>
 <p style='text-align: justify;'>
 

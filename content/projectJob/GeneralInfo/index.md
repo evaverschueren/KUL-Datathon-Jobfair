@@ -10,6 +10,8 @@ url_video: ""
 
 ---
 
+All information can be found{{< staticref "uploads/Datathon_details_2023.pdf" "newtab" >}}here.{{</staticref>}}
+
 <h4 style="color: #F88379">When? </h4>
 <p style='text-align: justify;'>
 The jobfair will take place on February 23, 2023, from 18h30 till 21h00. Free drinks will be provided. Both datathon and non-datathon participants are allowed to visit the jobfair!
