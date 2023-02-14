@@ -13,13 +13,5 @@ url_video: ""
 <h4 style="color: #F88379">Register your team for the Datathon! </h4>
 
 
-Please complete the registration form via this [link](https://forms.gle/6xkWybEZPk4PxyEu9). Only one registration per team is needed. The final deadline for registration is February 3, 2023, or sooner, if the maximum number of participants has been reached. 
-
-Before registration, collect the following information on your team/team members. 
-
-- Team name; 
-- Name of the team members (min 3, max 5);
-- r-number;
-- Study program;
-- KU Leuven email address.
+Registrations are closed.
 
