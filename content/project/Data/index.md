@@ -23,11 +23,11 @@ The datathon is neither an exam or a project. Hence, there is no particular assi
 
 <p style='text-align: justify;'> In addition to the main data tables, there are also AI generated images created using Text-To-Image technology. </p>
 
-The data is available in two different ways:
+The data is available in three different ways:
 
 1. As a zip file stored in CVS format {{< staticref "uploads/FilesCSVFormat.zip" "newtab" >}}here.{{</staticref>}}
 2. As a zip file stored in parquet.gzip format {{< staticref "uploads/FilesGZIPFormat.zip" "newtab" >}}here.{{</staticref>}}
-
+3. Hosted online at this [link.](https://kuleuven-datathon-2023.s3.eu-central-1.amazonaws.com/data/{file_name}.{file_extension})
 
 <p style='text-align: justify;'> A jupyter notebook file is also included in the ZIP file that provides additional information and insights into the data.</p>
 
