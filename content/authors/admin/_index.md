@@ -7,6 +7,8 @@ bio: ""
 
 <p style='text-align: justify;'> The Jobfair gives students with an interest in Statistics and Data Science the opportunity to meet companies on the outlook for new data driven employees. Also, companies will be present that are offering internships and master's thesis subjects related to Statistics and Data Science. </p>
 
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/SlidesKickOff2023.pdf" "newtab" >}}kick-off slides.{{</staticref>}}
+
 <h3 style="color: #F88379"> Why? </h3>
 
 {{< icon name="arrow-trend-up" pack="fas">}} Because Big Data is Big Fun! 
@@ -18,3 +20,7 @@ bio: ""
 <br/>
 
 {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/PosterDatathonJobfair.pdf" "newtab" >}}poster.{{</staticref>}}
+
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/SlidesKickOff2023.pdf" "newtab" >}}kick-off slides.{{</staticref>}}
+
+
