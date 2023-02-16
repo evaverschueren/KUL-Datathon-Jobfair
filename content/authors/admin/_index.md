@@ -20,7 +20,3 @@ bio: ""
 <br/>
 
 {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/PosterDatathonJobfair.pdf" "newtab" >}}poster.{{</staticref>}}
-
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/SlidesKickOff2023.pdf" "newtab" >}}kick-off slides.{{</staticref>}}
-
-
