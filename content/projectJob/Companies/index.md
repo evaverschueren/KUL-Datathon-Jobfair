@@ -35,3 +35,5 @@ url_video: ""
 ![](/albums/ComJobfair/Riskconcile.png)
 ![](/albums/ComJobfair/IDDI.PNG)
 ![](/albums/ComJobfair/HICT.PNG)
+
+![](/albums/ComJobfair/Sciensano.PNG)
