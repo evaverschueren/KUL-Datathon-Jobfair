@@ -7,7 +7,7 @@ bio: ""
 
 <p style='text-align: justify;'> The Jobfair gives students with an interest in Statistics and Data Science the opportunity to meet companies on the outlook for new data driven employees. Also, companies will be present that are offering internships and master's thesis subjects related to Statistics and Data Science. </p>
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/SlidesKickOff2023.pdf" "newtab" >}}kick-off slides.{{</staticref>}}
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/SlidesKickOff2023.pdf" "newtab" >}}kick-off slides {{</staticref>}} and {{< staticref "uploads/ProgramDatathonJobfair2023.pdf" "newtab" >}} Feb 23, 2023 Timeline.{{</staticref>}}
 
 <h3 style="color: #F88379"> Why? </h3>
 

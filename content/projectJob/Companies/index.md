@@ -10,6 +10,8 @@ url_video: ""
 
 ---
 
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/booklet_jobfair.pdf" "newtab" >}} companies' booklet.{{</staticref>}}
+
 ![](/albums/ComJobfair/ArcelorMittal.PNG)
 ![](/albums/ComJobfair/CrosspointSolutions.png)
 ![](/albums/ComJobfair/Datashift.png)
