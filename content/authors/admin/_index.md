@@ -21,4 +21,5 @@ bio: ""
 
 {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/PosterDatathonJobfair.pdf" "newtab" >}}poster.{{</staticref>}}
 
-<p style='text-align: justify;'> Note: pictures and video footage will be taken during this event and might be used afterwards for promotional purposes. If you wish not to be photographed or have your image recorded, please make your wishes known to the photographer, film crew and/or the event organizers. </p>
+
+
