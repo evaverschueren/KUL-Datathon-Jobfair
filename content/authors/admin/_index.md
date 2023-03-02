@@ -19,7 +19,7 @@ bio: ""
 
 <br/>
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/PosterDatathonJobfair.pdf" "newtab" >}}poster,{{</staticref>}} and pictures {{< staticref "uploads/Pictures1.zip" "newtab" >}}1{{</staticref>}} and {{< staticref "uploads/Pictures1.zip" "newtab" >}}2.{{</staticref>}}
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/PosterDatathonJobfair.pdf" "newtab" >}}poster,{{</staticref>}} and pictures {{< staticref "uploads/Pictures1.zip" "newtab" >}}1{{</staticref>}} and {{< staticref "uploads/Pictures2.zip" "newtab" >}}2.{{</staticref>}}
 
 
 
