@@ -24,17 +24,17 @@ date_format: Jan 2, 2006
 experience:
   - title: DATATHON - data sets release
     location: Online
-    date_start: '2023-02-14'
+    date_start: '2024-02-13'
     description: ''
 
   - title: DATATHON - kick-off event and workshops
-    location: Quadrivium KU Leuven
-    date_start: '2023-02-16'
+    location: Campus Arenberg - De Moete
+    date_start: '2024-02-15'
     description: ''
     
-  - title: DATATHON - pitches and closing event & JOBFAIR
-    location: Quadrivium KU Leuven
-    date_start: '2023-02-23'
+  - title: DATATHON - pitches and closing event
+    location: Campus Arenberg - Quadrivium 
+    date_start: '2024-02-21'
     description: ''
 design:
   columns: '2'
