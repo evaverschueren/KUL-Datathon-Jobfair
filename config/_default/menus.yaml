@@ -16,7 +16,7 @@ main:
   - name: Datathon
     url: '#Datathon'
     weight: 30
-  - name: Jobfair
+  - name: 2023 Edition
     url: '#Jobfair'
     weight: 40
 
