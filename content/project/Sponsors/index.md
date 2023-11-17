@@ -10,9 +10,9 @@ url_video: ""
 
 ---
 
-![](/albums/Sponsors/Riskconcile.png)
-![](/albums/Sponsors/KPMG.png)
-![](/albums/Sponsors/KBC.png)
-![](/albums/Sponsors/Pwc.PNG)
-![](/albums/Sponsors/Deloitte.PNG)
+# ![](/albums/Sponsors/Riskconcile.png)
+# ![](/albums/Sponsors/KPMG.png)
+# ![](/albums/Sponsors/KBC.png)
+# ![](/albums/Sponsors/Pwc.PNG)
+# ![](/albums/Sponsors/Deloitte.PNG)
 
