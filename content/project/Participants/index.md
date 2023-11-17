@@ -23,4 +23,4 @@ What does a team look like? </p>
 - One team may contain bachelor, master as well as phd students 
 
 <p style='text-align: justify;'>
-Important to note is that every team member needs to be present at the main event on Thursday February 21, 2024. The captain of each team will receive all practical information via email from the organizers. </p>
+Important to note is that every team member needs to be present at the main event on Wednesday February 21, 2024. The captain of each team will receive all practical information via email from the organizers. </p>
