@@ -47,6 +47,6 @@ weight = 1  # Order that this section will appear.
 
 <p style="font-size: 30px; color: #F88379; line-height:30px;  margin-top: 0px; margin-bottom: 40px; text-indent: 0px"> <b>KU Leuven & LStat present:</b> </p>
 
-<p style="font-size: 110px; color: #2f4d5d; line-height:30px;  margin-top: 50px; margin-bottom: 40px" z-index: 950> Datathon </p>
+<p style="font-size: 95px; color: #2f4d5d; line-height:30px;  margin-top: 50px; margin-bottom: 40px" z-index: 950> Datathon </p>
 <p style="font-size: 20px; color: #2f4d5d;   margin-top: 0 ;
   margin-bottom: 0; text-indent: 0px ;"> Pitch your best ML/AI skills!</p> 
