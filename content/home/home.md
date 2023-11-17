@@ -50,13 +50,3 @@ weight = 1  # Order that this section will appear.
 <p style="font-size: 120px; color: #2f4d5d; line-height:30px;  margin-top: 50px; margin-bottom: 40px" z-index: 950> Datathon </p>
 <p style="font-size: 25px; color: #2f4d5d;   margin-top: 0 ;
   margin-bottom: 0; text-indent: 9px ;"> Pitch your best ML/AI skills!</p> 
-  
-
-<p style="font-size: 120px; color: #2f4d5d; text-align: right; line-height:30px; margin-bottom: 40px; margin-top:140px"> Jobfair  </p>
-<p style="font-size: 25px; color: #2f4d5d; text-align: right; margin-top:0; margin-bottom:-20"> Find your future data-science internship/job!
-</p>
-
-<center>
-  <p style="font-size: 220px; color: #F88379; margin-top:-423px;
-  margin-bottom:50; text-indent: 150px" z-index: 900> & </p>
-</center>
