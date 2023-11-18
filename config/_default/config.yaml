@@ -5,7 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: LStat Datathon 2024 # Website name
-baseURL: 'https://kul-datathon-jobfair.netlify.app/' # Website URL
+#baseURL: 'https://kul-datathon-jobfair.netlify.app/' # Website URL
+baseURL: 'https://lstat-datathon.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
