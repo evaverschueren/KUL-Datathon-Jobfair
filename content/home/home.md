@@ -45,7 +45,7 @@ weight = 1  # Order that this section will appear.
  css_class = ""
 +++
 
-<p style="font-size: 30px; color: #F88379; line-height:30px;  margin-top: 0px; margin-bottom: 40px; text-indent: 10px"> <b>KU Leuven & LStat present:</b> </p>
+<p style="font-size: 25px; color: #F88379; line-height:30px;  margin-top: 0px; margin-bottom: 40px; text-indent: 10px"> <b>KU Leuven & LStat present:</b> </p>
 
 <p style="font-size: 87px; color: #2f4d5d; line-height:30px;  margin-top: 50px; margin-bottom: 40px; text-indent: 10px ;" z-index: 950> Datathon </p>
 <p style="font-size: 20px; color: #2f4d5d;   margin-top: 0 ;
