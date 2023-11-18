@@ -13,7 +13,7 @@ url_video: ""
 <h4 style="color: #F88379">When? </h4>
 <p style='text-align: justify;'>
 
-- Data sets will be available on the website as from February 13, 2024.
+- Data sets will be available on the website as from Tuesday February 13, 2024.
 
 - <p style='text-align: justify;'> A kick-off event with registration desk and workshops is organized on Thursday February 15, 2024, 17h-20h.</p>
 

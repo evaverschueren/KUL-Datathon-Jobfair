@@ -19,8 +19,8 @@ Who is allowed to participate in the datathon? </p>
 <p style='text-align: justify;color: #F88379'>
 What does a team look like? </p>
 
-- One team consists of minimum 3 and maximum 5 team members
-- One team may contain bachelor, master as well as phd students 
+- One team consists of minimum 3 and maximum 5 team members.
+- One team may contain bachelor, master as well as phd students. 
 
 <p style='text-align: justify;'>
 Important to note is that every team member needs to be present at the main event on Wednesday February 21, 2024. The captain of each team will receive all practical information via email from the organizers. </p>
