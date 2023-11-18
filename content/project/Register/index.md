@@ -1,7 +1,7 @@
 ---
 Date: -6
 external_link: ""
-summary: " Team registration for the Datathon "
+summary: " Team registration for the Datathon."
 title: "Registration"
 url_code: ""
 url_pdf: ""
