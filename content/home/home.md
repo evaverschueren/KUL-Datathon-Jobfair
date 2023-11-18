@@ -49,4 +49,4 @@ weight = 1  # Order that this section will appear.
 
 <p style="font-size: 87px; color: #2f4d5d; line-height:30px;  margin-top: 50px; margin-bottom: 40px; text-indent: 25px ;" z-index: 950> Datathon </p>
 <p style="font-size: 20px; color: #2f4d5d;   margin-top: 0 ;
-  margin-bottom: 0; text-indent: 28px ;"> Pitch your best ML/AI skills!</p> 
+  margin-bottom: 0; text-indent: 30px ;"> Pitch your best ML/AI skills!</p> 
