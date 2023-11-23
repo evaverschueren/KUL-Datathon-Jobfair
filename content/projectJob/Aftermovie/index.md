@@ -10,4 +10,4 @@ url_video: ""
 
 ---
 
-<p style='text-align: justify;'> Click [here](https://drive.google.com/file/d/1VGGnZsMxHXaYJwayTH21LNbvVHMioHkW/view?usp=sharing) to enjoy the aftermovie! </p>
+Click [here](https://drive.google.com/file/d/1VGGnZsMxHXaYJwayTH21LNbvVHMioHkW/view?usp=sharing) to enjoy the aftermovie!
