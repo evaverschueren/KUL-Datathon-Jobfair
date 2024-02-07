@@ -9,3 +9,7 @@ url_slides: ""
 url_video: ""
 
 ---
+
+<h4 style="color: #F88379">Sponsors </h4>
+<p style='text-align: justify;'>
+The organization of the datathon is possible thanks to [RiskConcile](https://www.riskconcile.com/) and [KBC](https://www.kbc.be/). </p>
