@@ -19,6 +19,3 @@ The datathon is neither an exam or a project. Hence, there is no particular assi
 
 <h4 style="color: #F88379">Data </h4>
 
-Download the data {{< staticref "uploads/Data2024.zip" "newtab" >} here{</staticref>}}!
-
-<p style='text-align: justify;'>The data set comes from the project “From bystander to hero”, in collaboration with the emergency medicine department at UZ Gasthuisberg. New is that, after a long selection procedure, this project has reached the final of the “citizen science project” in the context of 600 Years of KU Leuven (2025). There are 3 projects in the final. The contribution of the Datathon is to optimize the location of defibrillators (AED devices). This is based on a long history of geolocation data of heart attacks that took place in Belgium. </p>
