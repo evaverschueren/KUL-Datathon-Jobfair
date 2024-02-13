@@ -17,5 +17,5 @@ The datathon is neither an exam or a project. Hence, there is no particular assi
 
 <p style='text-align: justify;'> <strong> It is important to bring in your own expertise ! Engineers, mathematicians, economists, linguists, neuro-scientists, computer scientists, etc... you all have a story to tell. </strong> </p>
 
-<h4 style="color: #F88379">Data </h4>
+<h4 style="color: #F88379"> Data </h4>
 
