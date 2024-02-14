@@ -19,4 +19,4 @@ The datathon is neither an exam or a project. Hence, there is no particular assi
 
 <h4 style="color: #F88379"> Data </h4>
 
-Download the data {{< staticref "uploads/Data2024.zip" "newtab" >}} HERE {{</staticref>}}!
+Download the data [HERE](https://github.com/GregCollab/Datathon_2024)!
