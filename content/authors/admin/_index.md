@@ -15,7 +15,7 @@ bio: ""
 
 <br/>
 
-
+Download the slides of the kick-off {{< staticref "uploads/KickOff2024.pdf" "newtab" >}}HERE{{</staticref>}} and watch the recording [HERE](https://kuleuven.mediaspace.kaltura.com/media/Datathon+Kick-Off+Feb+15+2024/1_4gzskmvg)!
 
 
 
