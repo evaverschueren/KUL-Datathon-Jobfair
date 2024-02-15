@@ -19,4 +19,4 @@ The datathon is neither an exam or a project. Hence, there is no particular assi
 
 <h4 style="color: #F88379"> Data </h4>
 
-Download the data [HERE](https://github.com/GregCollab/Datathon_2024)!
+Download the data [HERE](https://github.com/GregCollab/Datathon_2024), the slides of the kick-off {{< staticref "uploads/KickOff2024.pdf" "newtab" >}}HERE{{</staticref>}} and watch the recording [HERE](https://kuleuven.mediaspace.kaltura.com/media/Datathon+Kick-Off+Feb+15+2024/1_4gzskmvg)!
